@@ -46,7 +46,7 @@ int main() {
 			}
 
 			c += offset;	
-
+				
 			printf("\n");
 		}
 
